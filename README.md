@@ -1,3 +1,3 @@
 ### 👋 Hi there!
 
-🐱‍💻 I'm Thomas.
+I'm Thomas.
