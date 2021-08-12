@@ -1,3 +1,1 @@
-### 👋 Hi there!
-
-I'm Thomas.
+## 👋 Hi there, I am Thomas!
